@@ -1,0 +1,5 @@
+api_key='xxx'
+api_secret='xxx'
+bearer_token='xxxx'
+access_token='xxxxx'
+access_token_secret='xxxxxx'
